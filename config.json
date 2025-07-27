@@ -84,6 +84,22 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "madou": {
+      "api": "https://madou.io/api.php/provide/vod/",
+      "name": "马兜"
+    },
+    "91md": {
+      "api": "https://91md.me/api.php/provide/vod/",
+      "name": "91md"
+    },
+    "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json",
+      "name": "草榴"
+    },
+    "baihu": {
+      "api": "https://baihuzy.com/api.php/provide/vod/?ac=list",
+      "name": "baihu"
     }
   }
 }
