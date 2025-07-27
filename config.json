@@ -94,11 +94,11 @@
       "name": "91md"
     },
     "caoliu": {
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json",
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
       "name": "草榴"
     },
     "baihu": {
-      "api": "https://baihuzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://baihuzy.com/api.php/provide/vod/",
       "name": "baihu"
     }
   }
